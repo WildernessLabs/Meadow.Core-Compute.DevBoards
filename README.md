@@ -8,7 +8,7 @@ This repo contains the hardware design files for the Core-Compute developer brea
 
 Schematics, BoM, and fabrication files can be found below.
 
- * [Dev Breakout w/Dual Ethernet](Source/Hardware/Dev_Breakout_w_Dual-Ethernet)
- * [Dev Breakout w/out Ethernet](Source/Hardware/Dev_Breakout_no_Ethernet)
+ * [Dev Breakout w/Dual Ethernet](Source/Hardware/Dev_Breakout_w_Dual-Ethernet/)
+ * [Dev Breakout w/out Ethernet](Source/Hardware/Dev_Breakout_no_Ethernet/v2.a/)
 
  Note that these boards are built largely with our [Hardware Addon Modules](https://github.com/WildernessLabs/Hardware_Addon_Modules), which simplify prototyping with the Meadow Core-Compute module.
